@@ -1,2 +1,1 @@
-# Chiken-farm
-Roblox script 
+hello :3
